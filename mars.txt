@@ -1,3 +1,5 @@
 Welcome to Bath!
 
 Time to do the Python exercises!
+
+Cold and dry, but everything is my favourite color.
